@@ -1,5 +1,5 @@
 Annabel Lee
-Edgar Allan Poe, 1809 - 1849
+Edgar Allan Poe, 1809 - 1894
 
  It was many and many a year ago,
    In a kingdom by the sea,
@@ -24,7 +24,7 @@ So that her highborn kinsman came
 To shut her up in a sepulchre
    In this kingdom by the sea.
 
-The angels, not half so happy in heaven,
+The angels, not half so happy in heaven;
    Went envying her and me--
 Yes!--that was the reason (as all men know,
    In this kingdom by the sea)
